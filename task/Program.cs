@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 Clear();
 
-string[] array1 = new string[5] {"window", "dog", "hey", "world", "cat"};
+string[] array1 = new string[6] {"window", "dog", "hey", "world", "cat", "peace"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
